@@ -6,7 +6,8 @@
 ### Lýsing
 Þetta er tveggja manna leikur. Leikmaður 1 ýtir á litla bláa takkann á sinni hlið og síðan ýtir leikmaður 2 á litla bláa takkann á sinni hlið. Eftir því hvaða form eða litur birtist. Ef báðar hliðar sýna sama form átt þú að ýta á stóra takkann á þinni hlið, og sá leikmaður sem ýtir fyrstur á stóra takkann vinnur
 ### Hönnunarteikning & kóðaskrá
-![Logo](Bordspil_lok_(Marjon, Júlíus))
+
+![Hönnunarteikning](<Bordspil_lok (Marjon, Július).svg>)
 
 
 
