@@ -15,6 +15,6 @@
 
 
 <!-- hafa þessu neðst-->
-### Höfundur
+### Höfundar
   - Marjón Neils Rizon Germino: [howka](https://github.com/howka)
   - Júlíus Kristjánsson: [Plansat](https://github.com/Plansat)
