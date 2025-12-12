@@ -18,6 +18,8 @@
 ### Hönnunarteikning & kóðaskrá
 [![Logo](./image_M-J.svg)](./image_M-J.svg)
 
+[Main Skrá](Py_files/Julius/main.py)
+
 
 
 <!-- hafa þessu neðst-->
