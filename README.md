@@ -10,9 +10,9 @@
 
 
 ### Ljósmyndir af borðspili & lóðun
-![Mynd 1](Myndir/IMG_0289.png)
-![Mynd 1](Myndir/IMG_0290.png)
-![Mynd 1](Myndir/IMG_0291.png)
+![Mynd 1](LokaIMG_IMG_0292.png)
+![Mynd 2](LokaIMG_IMG_0293.png)
+![Mynd 3](LokaIMG_IMG_0294.png)
 
 
 ### Hönnunarteikning & kóðaskrá
